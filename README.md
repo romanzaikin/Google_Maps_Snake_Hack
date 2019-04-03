@@ -6,7 +6,7 @@ Here is the link to our blog post: https://research.checkpoint.com/fakesapp-a-vu
 
 The Extension:
 
-![alt tag](https://raw.githubusercontent.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint/master/tool.png)
+![alt tag](https://github.com/romanzaikin/Google_Maps_Snake_Hack/blob/master/snake.gif)
 
 
 Made By:

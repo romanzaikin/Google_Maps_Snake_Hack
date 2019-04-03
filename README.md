@@ -8,7 +8,7 @@ So, we reversed engineered the app by using remote debugging and successfully ac
 
 POC:
 
-![alt tag](https://github.com/romanzaikin/Google_Maps_Snake_Hack/blob/master/snake.gif | width=40)
+![snake gif](https://github.com/romanzaikin/Google_Maps_Snake_Hack/blob/master/snake.gif|width=40){:height="700px" width="400px"}
 
 Watch the full video on youtube:
 

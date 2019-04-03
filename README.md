@@ -1,12 +1,18 @@
 # Google Maps Snake Hack
 
-This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol.
+This year Google has added an interactive snake game inside its Google Maps app for Android and IOS in celebration of April Fools’ Day. 
+We wanted to play the game but got frustrated when we lost, so we thought – why not hack our way into winning!
 
-Here is the link to our blog post: https://research.checkpoint.com/fakesapp-a-vulnerability-in-whatsapp/
+So, we reversed engineered the app by using remote debugging and successfully achieved the task of never losing and even add some simple AI that will play the game for us. 
 
-The Extension:
+
+POC:
 
 ![alt tag](https://github.com/romanzaikin/Google_Maps_Snake_Hack/blob/master/snake.gif | width=40)
+
+Watch the full video on youtube:
+
+[* will be published soon *]
 
 
 Made By:

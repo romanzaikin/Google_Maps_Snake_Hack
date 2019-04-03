@@ -7,8 +7,9 @@ So, we reversed engineered the app by using remote debugging and successfully ac
 
 
 POC:
-
-<img src="https://github.com/romanzaikin/Google_Maps_Snake_Hack/blob/master/snake.gif" width="40%" height="40%" />
+<p align="center">
+	<img src="https://github.com/romanzaikin/Google_Maps_Snake_Hack/blob/master/snake.gif" width="40%" height="40%" />
+</p>
 
 Watch the full video on youtube:
 
@@ -26,6 +27,7 @@ Linkedin - https://www.linkedin.com/in/yaara-shriki/
 __Roman Zaikin__
 
 Linkedin - https://www.linkedin.com/in/romanzaikin/
+
 Twitter -  https://twitter.com/R0m4nZ41k1n
 
 

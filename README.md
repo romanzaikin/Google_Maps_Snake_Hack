@@ -1,4 +1,4 @@
-# Google_Maps_Snake_Hack
+# Google Maps Snake Hack
 
 This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol.
 
@@ -12,7 +12,7 @@ The Extension:
 Made By:
 ---------------
 
-__Dikla Barda__
+__Yaara Shriki__
 
 Linkedin - https://www.linkedin.com/in/diklabarda/ 
 
@@ -20,14 +20,13 @@ Linkedin - https://www.linkedin.com/in/diklabarda/
 __Roman Zaikin__
 
 Linkedin - https://www.linkedin.com/in/romanzaikin/
-
 Twitter -  https://twitter.com/R0m4nZ41k1n
 
 
-Dependences:
+How To Use:
 ---------------
 
-1) Download Python 2.7 at https://www.python.org/downloads/release/python-2715/
+1) Start Google Maps in your
 
 2) Download pip at https://pip.pypa.io/en/stable/installing/
 
@@ -39,24 +38,6 @@ Dependences:
 5) Copy `stdint.h` to `C:\Users\Administrator\AppData\Local\Programs\Common\Microsoft\Visual C++ for Python\9.0\VC\include`
 
 
-About the extension
----------------
-
-This extension allow you to view and manipulate the actual data that sent via whatsapp.
-
-1) First you have to run the `parser.py` file (which is in helper dir).
-2) Second you have to add the file `burpWhatsapp.py` to your burpsuit extensions.
-
-
-Functionality
----------------
-
-1) Decrypt incoming data, you have to paste the data as base64 to the extension `ctrl+b`
-2) Encrypt incoming data, after you decrypt the data you can encrypt and put it back to burp by copy pase the base64 and `ctrl+shift+b`
-3) Decrypt outgoing data, to decrypt outgoing data you have to take it from `AesCbcEncrypt` function in list format.
-4) Encrypt outgoing data, after the extension encrypt the data back you have to put it back via the console.
-
-you can use the following helper function to do that:
 
 ```js
 function str2unit8(str) {
@@ -69,12 +50,6 @@ function str2unit8(str) {
   return buf;
 }
 ```
-
-TO-DO
----------------
-
-The extension currently can decrypt and encrypt only the message related functionality, in order to add more function you have to map the protobuf
-and add it to our protobuf file.
 
 
 

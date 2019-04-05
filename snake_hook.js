@@ -83,6 +83,7 @@ F = function (a, b) {
 		// game started
 		if(!Q.b.next){
 			Q.b.next = "d";
+		}
 		
 		// train is in top row
 		if (b.y == 0){

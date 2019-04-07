@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="184px" viewBox="0 0 184 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>help_keyboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="9.33333333 18.6666667 16 12 22.6666667 18.6666667"></polygon>
+        <polygon id="path-3" points="9.33333333 13.3333333 16 20 22.6666667 13.3333333"></polygon>
+        <polygon id="path-5" points="18.6666667 9.33333333 12 16 18.6666667 22.6666667"></polygon>
+        <polygon id="path-7" points="13.3333333 22.6666667 20 16 13.3333333 9.33333333"></polygon>
+    </defs>
+    <g id="help_keyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <path d="M74,43 C72.3431458,43 71,44.3431458 71,46 L71,82 C71,83.6568542 72.3431458,85 74,85 L110,85 C111.656854,85 113,83.6568542 113,82 L113,46 C113,44.3431458 111.656854,43 110,43 L74,43 Z M74,40 L110,40 C113.313708,40 116,42.6862915 116,46 L116,82 C116,85.3137085 113.313708,88 110,88 L74,88 C70.6862915,88 68,85.3137085 68,82 L68,46 C68,42.6862915 70.6862915,40 74,40 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M18,99 C16.3431458,99 15,100.343146 15,102 L15,138 C15,139.656854 16.3431458,141 18,141 L54,141 C55.6568542,141 57,139.656854 57,138 L57,102 C57,100.343146 55.6568542,99 54,99 L18,99 Z M18,96 L54,96 C57.3137085,96 60,98.6862915 60,102 L60,138 C60,141.313708 57.3137085,144 54,144 L18,144 C14.6862915,144 12,141.313708 12,138 L12,102 C12,98.6862915 14.6862915,96 18,96 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M74,99 C72.3431458,99 71,100.343146 71,102 L71,138 C71,139.656854 72.3431458,141 74,141 L110,141 C111.656854,141 113,139.656854 113,138 L113,102 C113,100.343146 111.656854,99 110,99 L74,99 Z M74,96 L110,96 C113.313708,96 116,98.6862915 116,102 L116,138 C116,141.313708 113.313708,144 110,144 L74,144 C70.6862915,144 68,141.313708 68,138 L68,102 C68,98.6862915 70.6862915,96 74,96 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M130,99 C128.343146,99 127,100.343146 127,102 L127,138 C127,139.656854 128.343146,141 130,141 L166,141 C167.656854,141 169,139.656854 169,138 L169,102 C169,100.343146 167.656854,99 166,99 L130,99 Z M130,96 L166,96 C169.313708,96 172,98.6862915 172,102 L172,138 C172,141.313708 169.313708,144 166,144 L130,144 C126.686292,144 124,141.313708 124,138 L124,102 C124,98.6862915 126.686292,96 130,96 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <g id="navigation/arrow_drop_up_24px" transform="translate(76.000000, 48.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="ic_arrow_drop_up_24px" fill-rule="nonzero"></g>
+                <g id="_c/White" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Layer-style" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+            <g id="navigation/arrow_drop_down_24px" transform="translate(76.000000, 104.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="ic_arrow_drop_down_24px" fill-rule="nonzero"></g>
+                <g id="_c/White" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Layer-style" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+            <g id="navigation/arrow_left_24px" transform="translate(20.000000, 104.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="ic_arrow_left_24px" fill-rule="nonzero"></g>
+                <g id="_c/White" mask="url(#mask-6)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Layer-style" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+            <g id="navigation/arrow_right_24px" transform="translate(132.000000, 104.000000)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <g id="ic_arrow_right_24px" fill-rule="nonzero"></g>
+                <g id="_c/White" mask="url(#mask-8)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Layer-style" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle" x="0" y="0" width="184" height="184"></rect>
+        </g>
+    </g>
+</svg>
